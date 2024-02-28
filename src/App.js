@@ -49,7 +49,6 @@ export default function App() {
         <Route path='home/historia' element={<Historia/>} />
         <Route path='home/primeroshabitantes' element={<PrimerosHabitantes/>} />
         
-
         <Route path='/culturallanera/joropo' element={<Joropo/>} />
         <Route path='/culturallanera/instrumentos' element={<Instrumentos/>} />
         <Route path='/culturallanera/comida' element={<Comida/>} />

@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/yopal-spa/build/static/css/main.9531a3ff.css",
+    "main.js": "/yopal-spa/build/static/js/main.ab47fa1e.js",
+    "static/js/787.d4aba7ab.chunk.js": "/yopal-spa/build/static/js/787.d4aba7ab.chunk.js",
+    "static/media/img6.jpg": "/yopal-spa/build/static/media/img6.ef590597638f433120a9.jpg",
+    "static/media/img8.jpg": "/yopal-spa/build/static/media/img8.36cdb9dec616f0a17cb8.jpg",
+    "static/media/img11.jpg": "/yopal-spa/build/static/media/img11.13ecba9fa435c0457dd6.jpg",
+    "static/media/img7.jpg": "/yopal-spa/build/static/media/img7.4fb2543988d94ff853c1.jpg",
+    "static/media/img17.jpg": "/yopal-spa/build/static/media/img17.8a16f98e5080505e2ac1.jpg",
+    "static/media/img10.jpg": "/yopal-spa/build/static/media/img10.b341b7cf256e841543b3.jpg",
+    "static/media/img16.jpg": "/yopal-spa/build/static/media/img16.fa51661d4846a933b5f1.jpg",
+    "static/media/img14.jpg": "/yopal-spa/build/static/media/img14.d2bd07c3e33d294364fa.jpg",
+    "static/media/img5.jpg": "/yopal-spa/build/static/media/img5.d417567f3e3214bfc5f8.jpg",
+    "static/media/img12.jpg": "/yopal-spa/build/static/media/img12.d3605c7d5d2c7e81ac2c.jpg",
+    "static/media/img1.jpg": "/yopal-spa/build/static/media/img1.cdb7eefd3f5d77befd74.jpg",
+    "static/media/img9.jpg": "/yopal-spa/build/static/media/img9.7fe07bacb29d5ae2b086.jpg",
+    "static/media/img3.jpg": "/yopal-spa/build/static/media/img3.a9fccdc646d981b01092.jpg",
+    "static/media/img2.jpg": "/yopal-spa/build/static/media/img2.c5aa273eeae129dee78e.jpg",
+    "static/media/img13.jpg": "/yopal-spa/build/static/media/img13.4b16bca3312c4383fd06.jpg",
+    "static/media/img4.jpg": "/yopal-spa/build/static/media/img4.4110b701ae7a09e3a4f6.jpg",
+    "static/media/img15.jpg": "/yopal-spa/build/static/media/img15.86625a987e3059c8a0f6.jpg",
+    "index.html": "/yopal-spa/build/index.html",
+    "main.9531a3ff.css.map": "/yopal-spa/build/static/css/main.9531a3ff.css.map",
+    "main.ab47fa1e.js.map": "/yopal-spa/build/static/js/main.ab47fa1e.js.map",
+    "787.d4aba7ab.chunk.js.map": "/yopal-spa/build/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9531a3ff.css",
+    "static/js/main.ab47fa1e.js"
+  ]
+}
