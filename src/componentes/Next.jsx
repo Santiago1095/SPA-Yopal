@@ -1,11 +1,5 @@
 function Next() {
-
-    return (
-
-<div>
-  En proceso 
-</div>
-    )
+  return <div>En proceso</div>;
 }
 
-export default Next
+export default Next;

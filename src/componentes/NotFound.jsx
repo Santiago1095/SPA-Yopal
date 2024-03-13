@@ -1,21 +1,19 @@
-import { BrowserRouter, Routes, Route, NavLink, Navigate, Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 import React from "react";
-import '../App.js'
-
+import "../App.js";
 
 export default function NotFound() {
   return (
     <div>
+      <br />
 
-<br />
+      <h1>404 NOT FOUND</h1>
 
-    <h1>404 NOT FOUND</h1>
-     
-<br />
+      <br />
 
-      <Link to="/home" class="btn btn-secondary">Volver a la pagina principal</Link>
-
-     
-  </div>
-  )
+      <Link to="/home" class="btn btn-secondary">
+        Volver a la pagina principal
+      </Link>
+    </div>
+  );
 }
